@@ -1,0 +1,11 @@
+title: Yeet The Bear
+originalAuthor: Shananas
+assets:
+- name: obj/N_PO010_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/F_PO080.mdlx
+- name: obj/F_PO080.mdlx
+  method: copy
+  source:
+  - name: obj/N_PO010_BTL.mdlx

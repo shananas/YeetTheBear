@@ -1,5 +1,6 @@
 title: Yeet The Bear
 originalAuthor: Shananas
+game: kh2
 assets:
 - name: obj/N_PO010_BTL.mdlx
   method: copy
